@@ -1,4 +1,5 @@
-    # Import the required libraries
+# Import the required libraries
+# The Moving Average Convergence Divergence (MACD)
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
