@@ -7,3 +7,7 @@ I have a main and a developer branch in the StockAPI project
 When I update a file and want to update the my working branch (e.g. developer) then I write
 
 git commit -m "commit text"
+to give a bit of descriptive text for the update
+
+git push https://github.com/Jkallehauge/StockAPI 
+to push it to the remote repository
